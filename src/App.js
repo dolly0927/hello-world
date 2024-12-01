@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This project is created by dolly the react developer
+          This project is created by dolly the react developer.
         </p>
         <a
           className="App-link"
